@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.zainasghar.recyclerview.Activities.AddProductActivity">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Update Product!"
+        android:id="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="serif"
+
+
+
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:id="@+id/addform"
+        android:layout_above="@+id/navbar"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:id="@+id/name_update"
+            android:textSize="25sp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/name_update"
+            android:hint="Price"
+            android:id="@+id/price_update"
+            android:textSize="25sp"
+            android:inputType="number"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/price_update"
+            android:hint="Quantity"
+            android:id="@+id/quantity_update"
+            android:textSize="25sp"
+            android:inputType="number"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/quantity_update"
+            android:hint="Description"
+            android:id="@+id/description_update"
+            android:textSize="25sp"
+            android:inputType="textMultiLine"
+            />
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="4"
+            android:rating="2.5"
+            android:id="@+id/rbRating_update"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/description_update"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Update Product"
+            android:id="@+id/btnupdate__update"
+            android:layout_below="@+id/rbRating_update"
+            android:background="@color/theamColor"
+            android:fontFamily="serif"
+            android:textColor="@color/splash"
+            android:textSize="20sp"
+            android:layout_marginTop="15dp"
+
+            />
+
+
+    </RelativeLayout>
+
+
+    <!--nave bar-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/navbar"
+        android:weightSum="3"
+        >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/allProducts"
+            android:text="Show"
+            android:background="@color/theamColor"
+            android:textSize="17dp"
+            android:fontFamily="serif"
+            android:textColor="@color/splash"
+            android:layout_marginRight="1dp"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/addProduct"
+
+            android:text="Add"
+            android:background="@color/theamColor"
+            android:textSize="17dp"
+            android:fontFamily="serif"
+            android:textColor="@color/splash"
+            android:layout_marginRight="1dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/logOut"
+
+            android:text="Logout"
+            android:background="@color/theamColor"
+            android:textSize="17dp"
+            android:fontFamily="serif"
+            android:textColor="@color/splash"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

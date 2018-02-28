@@ -1,0 +1,9 @@
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\BO\bin\Debug\BO.dll
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\BO\bin\Debug\BO.pdb
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\BO\obj\Debug\BO.dll
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\BO\obj\Debug\BO.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\BO\bin\Debug\BO.dll
+C:\Users\Zain Asghar\Desktop\Assingment 1\BO\bin\Debug\BO.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Zain Asghar\Desktop\Assingment 1\BO\obj\Debug\BO.dll
+C:\Users\Zain Asghar\Desktop\Assingment 1\BO\obj\Debug\BO.pdb

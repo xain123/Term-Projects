@@ -1,0 +1,191 @@
+﻿<Window x:Class="Assingment_1.User.reportPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assingment_1.User"
+        mc:Ignorable="d"
+        Title="Report Panel" Height="641" Width="1080">
+    <Window.Resources>
+        <Color x:Key="Color1">#FF6171D6</Color>
+        <Color x:Key="Color2">#FF060676</Color>
+        <Color x:Key="Color3">#FFD14E54</Color>
+        <Color x:Key="Color4">#FFCFA87A</Color>
+        <Color x:Key="Color5">#FF66D875</Color>
+        <Color x:Key="Color6">#FF66D875</Color>
+        <Color x:Key="Color7">#FF75059E</Color>
+        <Color x:Key="Color8">#FF75059E</Color>
+    </Window.Resources>
+    <Grid Background="#FFD6D5D5" RenderTransformOrigin="0.504,0.582">
+
+
+
+
+        <Label x:Name="label2" Content="REPORT PANEL" HorizontalAlignment="Left" Margin="330,40,0,0" VerticalAlignment="Top" Width="396" FontSize="48" FontWeight="Black" FontFamily="SketchFlow Print" Height="53"/>
+        <Border BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="448" Margin="57,131,0,0" VerticalAlignment="Top" Width="962">
+            <Border.Effect>
+                <BlurEffect/>
+            </Border.Effect>
+        </Border>
+
+        <Border HorizontalAlignment="Left" Height="180" Margin="114,157,0,0"  VerticalAlignment="Top" Width="334" BorderBrush="Black"  MouseLeftButtonDown="saleReport_MouseLeftButtonDown" OpacityMask="#FFBB7E7E">
+            <Border.Background>
+                <SolidColorBrush Color="#FFDE9245"/>
+            </Border.Background>
+            <Border.Style>
+                <Style TargetType="Border">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.500" To="2" Storyboard.TargetProperty="BorderThickness"/>
+                                        <DoubleAnimation Duration="0:0:0.400" To="193" Storyboard.TargetProperty="Height"/>
+                                        <DoubleAnimation Duration="0:0:0.400" To="344" Storyboard.TargetProperty="Width"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.EnterActions>
+
+                            <Trigger.ExitActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.300" To="0" Storyboard.TargetProperty="BorderThickness"/>
+                                        <DoubleAnimation Duration="0:0:0.500" To="180" Storyboard.TargetProperty="Height"/>
+                                        <DoubleAnimation Duration="0:0:0.500" To="334" Storyboard.TargetProperty="Width"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.ExitActions>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+
+            </Border.Style>
+            <Grid>
+                <Image x:Name="image1" Source="D:\BCS DATA\Samester 6\C Sharp\Assingment 1\pictures\sale2.png" OpacityMask="#FF8D5252" Margin="0,0,154,10"/>
+                <Label x:Name="label" Content="  SALE &#xD;&#xA;REPORT" HorizontalAlignment="Left" Margin="165,83,0,0" Width="159" FontSize="32" FontFamily="Sitka Small" FontWeight="Bold" Height="97" VerticalAlignment="Top" RenderTransformOrigin="0.525,1"/>
+
+
+            </Grid>
+        </Border>
+
+        <Border HorizontalAlignment="Left" Height="180" Margin="628,157,0,0"  VerticalAlignment="Top" Width="334" BorderBrush="Black"  MouseLeftButtonDown="serviceReport_MouseLeftButtonDown" OpacityMask="Black">
+            <Border.Background>
+                <SolidColorBrush Color="#FFD68E6C"/>
+            </Border.Background>
+            <Border.Style>
+                <Style TargetType="Border">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.500" To="2" Storyboard.TargetProperty="BorderThickness"/>
+                                        <DoubleAnimation Duration="0:0:0.400" To="193" Storyboard.TargetProperty="Height"/>
+                                        <DoubleAnimation Duration="0:0:0.400" To="344" Storyboard.TargetProperty="Width"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.EnterActions>
+
+                            <Trigger.ExitActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.300" To="0" Storyboard.TargetProperty="BorderThickness"/>
+                                        <DoubleAnimation Duration="0:0:0.500" To="180" Storyboard.TargetProperty="Height"/>
+                                        <DoubleAnimation Duration="0:0:0.500" To="334" Storyboard.TargetProperty="Width"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.ExitActions>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+
+            </Border.Style>
+            <Grid>
+                <Image x:Name="image2" Source="D:\BCS DATA\Samester 6\C Sharp\Assingment 1\pictures\reports.png" OpacityMask="#FF8D5252" Margin="0,0,154,10"/>
+                <Label x:Name="label3" Content=" SERVICE &#xD;&#xA; REPORT" Margin="148,79,12,0" VerticalAlignment="Top" Height="91" FontSize="32" FontFamily="Sitka Small" FontWeight="Bold"/>
+
+            </Grid>
+        </Border>
+
+        <Border  HorizontalAlignment="Left" Height="180" Margin="114,376,0,0" VerticalAlignment="Top" Width="334" BorderBrush="Black"  MouseLeftButtonDown="stockReport_MouseLeftButtonDown">
+            <Border.Background>
+                <SolidColorBrush Color="#FFBDBD44"/>
+            </Border.Background>
+            <Border.Style>
+                <Style TargetType="Border">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.500" To="2" Storyboard.TargetProperty="BorderThickness"/>
+                                        <DoubleAnimation Duration="0:0:0.400" To="193" Storyboard.TargetProperty="Height"/>
+                                        <DoubleAnimation Duration="0:0:0.400" To="344" Storyboard.TargetProperty="Width"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.EnterActions>
+
+                            <Trigger.ExitActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.300" To="0" Storyboard.TargetProperty="BorderThickness"/>
+                                        <DoubleAnimation Duration="0:0:0.500" To="180" Storyboard.TargetProperty="Height"/>
+                                        <DoubleAnimation Duration="0:0:0.500" To="334" Storyboard.TargetProperty="Width"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.ExitActions>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+
+            </Border.Style>
+            <Grid>
+                <Image x:Name="image3" Source="D:\BCS DATA\Samester 6\C Sharp\Assingment 1\pictures\sto2.png" OpacityMask="#FF8D5252" Margin="0,0,154,10"/>
+                <Label x:Name="label4" Content=" STOCK &#xD;&#xA;REPORT" HorizontalAlignment="Left" Margin="180,91,0,0" VerticalAlignment="Top" Height="79" Width="144" FontSize="30" FontFamily="Sitka Small" FontWeight="Bold"/>
+
+            </Grid>
+        </Border>
+
+        <Border HorizontalAlignment="Left" Height="180" Margin="628,376,0,0" VerticalAlignment="Top" Width="334" BorderBrush="Black"  MouseLeftButtonDown="back_MouseLeftButtonDown">
+            <Border.Background>
+                <SolidColorBrush Color="#FF8BE051"/>
+            </Border.Background>
+            <Border.Style>
+                <Style TargetType="Border">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.500" To="2" Storyboard.TargetProperty="BorderThickness"/>
+                                        <DoubleAnimation Duration="0:0:0.400" To="193" Storyboard.TargetProperty="Height"/>
+                                        <DoubleAnimation Duration="0:0:0.400" To="344" Storyboard.TargetProperty="Width"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.EnterActions>
+
+                            <Trigger.ExitActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ThicknessAnimation Duration="0:0:0.300" To="0" Storyboard.TargetProperty="BorderThickness"/>
+                                        <DoubleAnimation Duration="0:0:0.500" To="180" Storyboard.TargetProperty="Height"/>
+                                        <DoubleAnimation Duration="0:0:0.500" To="334" Storyboard.TargetProperty="Width"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.ExitActions>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+
+            </Border.Style>
+            <Grid>
+                <Image x:Name="image4" Source="D:\BCS DATA\Samester 6\C Sharp\Assingment 1\pictures\back.png" OpacityMask="Black" Margin="0,0,154,10"/>
+                <Label x:Name="label5" Content="BACK" HorizontalAlignment="Left" Margin="222,128,0,10" Width="102" FontSize="30" FontFamily="Sitka Small" FontWeight="Bold" RenderTransformOrigin="1.157,0.643"/>
+
+            </Grid>
+        </Border>
+
+
+
+    </Grid>
+</Window>

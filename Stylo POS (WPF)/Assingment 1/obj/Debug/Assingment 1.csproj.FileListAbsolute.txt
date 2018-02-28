@@ -1,0 +1,120 @@
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\Assingment 1.exe.config
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\Assingment 1.exe
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\Assingment 1.pdb
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\BLL.dll
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\BO.dll
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\DAL.dll
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\BLL.pdb
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\BO.pdb
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\bin\Debug\DAL.pdb
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Assingment 1.csprojResolveAssemblyReference.cache
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\About.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\adminPanel.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\adminSalesReport.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\deleteItem.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\MainWindow.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\manageStock.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\staffRegistration.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\stockReport.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\updateItem.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\updatePassword.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\newService.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\reportPanel.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\saleReport.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\sales.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\servicePanel.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\serviceReport.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\stockReport.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\updateService.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\userPanel.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\viewService.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\App.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Assingment 1_MarkupCompile.cache
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Assingment 1_MarkupCompile.lref
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\About.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\adminPanel.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\adminSalesReport.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\deleteItem.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\MainWindow.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\manageStock.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\staffRegistration.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\stockReport.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\updateItem.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Admin\updatePassword.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\newService.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\reportPanel.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\saleReport.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\sales.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\servicePanel.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\serviceReport.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\stockReport.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\updateService.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\userPanel.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\User\viewService.baml
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Assingment 1.g.resources
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Assingment_1.Properties.Resources.resources
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Assingment 1.csproj.GenerateResource.Cache
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Assingment 1.exe
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\Assingment 1\obj\Debug\Assingment 1.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\styloDatabase.mdf
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\styloDatabase_log.ldf
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\Assingment 1.exe.config
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\Assingment 1.exe
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\Assingment 1.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\BLL.dll
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\BO.dll
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\DAL.dll
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\BLL.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\BO.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\bin\Debug\DAL.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Assingment 1.csprojResolveAssemblyReference.cache
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\About.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\adminPanel.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\adminSalesReport.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\deleteItem.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\MainWindow.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\manageStock.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\staffRegistration.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\stockReport.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\updateItem.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\updatePassword.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\newService.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\reportPanel.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\saleReport.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\sales.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\servicePanel.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\serviceReport.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\stockReport.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\updateService.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\userPanel.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\viewService.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\App.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Assingment 1_MarkupCompile.cache
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Assingment 1_MarkupCompile.lref
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\About.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\adminPanel.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\adminSalesReport.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\deleteItem.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\MainWindow.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\manageStock.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\staffRegistration.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\stockReport.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\updateItem.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Admin\updatePassword.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\newService.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\reportPanel.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\saleReport.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\sales.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\servicePanel.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\serviceReport.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\stockReport.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\updateService.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\userPanel.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\User\viewService.baml
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Assingment 1.g.resources
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Assingment_1.Properties.Resources.resources
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Assingment 1.csproj.GenerateResource.Cache
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Assingment 1.exe
+C:\Users\Zain Asghar\Desktop\Assingment 1\Assingment 1\obj\Debug\Assingment 1.pdb

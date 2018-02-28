@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Shopper</string>
+
+    <!--Login-->
+    <string name="login_userid">User ID</string>
+    <string name="login_password">Password</string>
+
+</resources>

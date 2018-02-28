@@ -1,0 +1,64 @@
+body{
+	padding-top: 70px;
+	padding-bottom: 20px;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+} 
+h1,h2,h3,h4,h5{
+	font-family: 'Oswald', sans-serif;
+}
+ body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 10%;
+  /* Set the fixed height of the footer here */
+  height: 20px;
+  background-color: #f5f5f5;
+}
+
+
+/*This class is for the jumbotron to set it to full screen with text at center*/
+.vertical-center {
+ 
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  
+}
+
+fieldset.scheduler-border {
+    border: 1px groove #ddd !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000;
+            box-shadow:  0px 0px 0px 0px #000;
+            border:none;
+    width:100px;
+    width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+}
+
+legend.scheduler-border {
+    font-size: 1.2em !important;
+    font-weight: bold !important;
+    text-align: center !important;
+
+}
+
+
+
+a,
+a label {
+    cursor: pointer;
+}
+.hide {
+    display: none !important;
+}
+

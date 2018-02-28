@@ -1,0 +1,20 @@
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\bin\Debug\styloDatabase.mdf
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\bin\Debug\styloDatabase_log.ldf
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\bin\Debug\DAL.dll.config
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\bin\Debug\DAL.dll
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\bin\Debug\DAL.pdb
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\bin\Debug\BO.dll
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\bin\Debug\BO.pdb
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\obj\Debug\DAL.dll
+D:\BCS DATA\Samester 6\C Sharp\Assingment 1\DAL\obj\Debug\DAL.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\bin\Debug\styloDatabase.mdf
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\bin\Debug\styloDatabase_log.ldf
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\bin\Debug\DAL.dll.config
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\bin\Debug\DAL.dll
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\bin\Debug\DAL.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\bin\Debug\BO.dll
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\bin\Debug\BO.pdb
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\obj\Debug\DAL.dll
+C:\Users\Zain Asghar\Desktop\Assingment 1\DAL\obj\Debug\DAL.pdb

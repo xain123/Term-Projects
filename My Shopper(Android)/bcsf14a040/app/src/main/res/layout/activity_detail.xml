@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <ImageView
+        android:id="@+id/ivDP_detail"
+        android:layout_width="165dp"
+        android:layout_height="165dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/product" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zain Asghar"
+        android:textSize="22sp"
+        android:id="@+id/tvName_detail"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ivDP_detail"
+        android:padding="10dp"
+         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zain "
+        android:textSize="22sp"
+        android:id="@+id/tvprice_detail"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvName_detail"
+        android:padding="10dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zain "
+        android:textSize="22sp"
+        android:id="@+id/tvquantity_detail"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvprice_detail"
+        android:padding="10dp"
+
+
+        />
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="4"
+        android:rating="1"
+        android:id="@+id/rbRating_detail"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tvquantity_detail"
+         />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zain "
+        android:textSize="22sp"
+        android:id="@+id/tvdescription_detail"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/rbRating_detail"
+        android:padding="10dp"
+
+
+        />
+
+
+
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/delete"
+        android:id="@+id/delete_detail"
+
+
+        android:layout_above="@+id/rbRating"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <!--nave bar-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/navbar"
+        android:weightSum="3"
+        >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/allProducts"
+            android:text="Show"
+            android:background="@color/theamColor"
+            android:textSize="17dp"
+            android:fontFamily="serif"
+            android:textColor="@color/splash"
+            android:layout_marginRight="1dp"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/addProduct"
+
+            android:text="Add"
+            android:background="@color/theamColor"
+            android:textSize="17dp"
+            android:fontFamily="serif"
+            android:textColor="@color/splash"
+            android:layout_marginRight="1dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/logOut"
+
+            android:text="Logout"
+            android:background="@color/theamColor"
+            android:textSize="17dp"
+            android:fontFamily="serif"
+            android:textColor="@color/splash"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

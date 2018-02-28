@@ -1,0 +1,9 @@
+ADMIN PANEL:
+admin
+123
+
+
+
+USER PANEL:
+zain
+123

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="theamColor">#5ecc62</color>
+    <color name="selecedButton">#009b3e</color>
+    <color name="theamColor2">#00ad45</color>
+    <color name="splash">#ffffff</color>
+    <color name="blocked">#ffaaaa</color>
+</resources>

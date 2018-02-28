@@ -1,0 +1,21 @@
+                               EFSI SERVICE RECEIPT
+                          15/12, NEW MARKET, KISHOREGANJ
+                     Cell: +880-1711-360899 / +880-1919-360899
+
+PRODUCT ID                       abc
+PRICE (RS)                           123
+COLOR                                 YELLOW
+SIZE                                      40
+CATEGORY                         MALE
+BRAND                                 BATA
+CUSTOMER NAME           K
+ADDRESS                            m
+PHONE                                 L
+PURCHASED                      5/1/2017
+SERVICE                             5/1/2017
+RETURN                              5/1/2017
+CHARGE (RS)                     7
+=======================================================
+WE ARE GLAD TO SERVICE YOU !!!
+FOR FUTURE REFRENCE KINDLY PROVIDE THE RECEIPT
+
